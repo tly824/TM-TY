@@ -1,29 +1,19 @@
 {
-	
-"homepage": "https://github.com/tly824/TM-TY",
+
+"homepage": "https://github.com/tly824/hipy-server",	
 "spider":"https://gh-proxy.org/https://raw.github.com/tly824/tvbox/master/jar/pg.jar;md5;aHR0cHM6Ly9naC1wcm94eS5vcmcvaHR0cHM6Ly9yYXcuZ2l0aHViLmNvbS90bHk4MjQvdHZib3gvbWFzdGVyL2phci9wZy5qYXI=",
 
 
- "lives": [
-        {
-            "channels": [
-                {
-                    "name": "CCTV-1",
-                    "urls": [
-                        "http://play.kankanlive.com/live/1698234869325962.m3u8",
-                        "http://221.226.51.220:50081/newlive/live/hls/1/live.m3u8",
-                        "http://60.13.52.236:65500/newlive/live/hls/1/live.m3u8",
-                        "http://69.30.245.50/live/cctv1.m3u8",
-                        "http://120.211.62.180:8000/hls/1/index.m3u8",
-                        "http://198.204.240.250:82/live/cctv1.m3u8",
-                        "http://38.75.136.137:98/gslb/dsdqbv/cctv1hd.m3u8?auth=test20251009",
-                        "http://173.208.212.130:8181/720p/cctv1.m3u8",
-                        "http://fuxin.yunjifei.top:999/tsfile/live/0001_1.m3u8?key=txiptv",
-                        "http://107.150.60.122/live/cctv1hd.m3u8"
-                    ]
-                }
-				],
-"sites":[
+
+"lives":[
+             {"group":"redirect","channels":
+			 [
+			 {"name":"redirect","urls":["proxy://do=live&type=txt&ext=Y2xhbjovL1RWQm94L2xpdmUudHh0"]
+			 }
+			 ]
+			 }
+			 ],
+ "sites":[
 
 {
 	"key": "钛金影视",
