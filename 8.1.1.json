@@ -1,6 +1,6 @@
 {
 
-"homepage": "https://github.com/tly824/hipy-server",	
+"homepage": "https://github.com/tly824/TM-TY",	
 "spider":"https://gh-proxy.org/https://raw.github.com/tly824/tvbox/master/jar/pg.jar;md5;aHR0cHM6Ly9naC1wcm94eS5vcmcvaHR0cHM6Ly9yYXcuZ2l0aHViLmNvbS90bHk4MjQvdHZib3gvbWFzdGVyL2phci9wZy5qYXI=",
 
 
@@ -218,23 +218,23 @@
 			"key": "hipy_js_腾云驾雾[官]",
 			"name": "腾云驾雾[官](drpy_t3)",
 			"type": 3,
-			"api": "https://gh-proxy.org/https://raw.github.com/tly824/hipy-server/master/app/t4/files/drpy_libs/drpy2.min.js",
+			"api": "js/drpy2.min.js",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
 			"order_num": 0,
-			"ext": "https://gh-proxy.org/https://raw.github.com/tly824/hipy-server/master/app/t4/files/drpy_js/%E8%85%BE%E4%BA%91%E9%A9%BE%E9%9B%BE%5B%E5%AE%98%5D.js"
+			"ext": "./drpy_js/腾云驾雾[官].js"
 		},
 		{
 			"key": "hipy_js_百忙无果[官]",
 			"name": "百忙无果[官](drpy_t3)",
 			"type": 3,
-			"api": "https://gh-proxy.org/https://raw.github.com/tly824/hipy-server/master/app/t4/files/drpy_libs/drpy2.min.js",
+			"api": "js/drpy2.min.js",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
 			"order_num": 0,
-			"ext": "https://gh-proxy.org/https://raw.github.com/tly824/hipy-server/master/app/t4/files//drpy_js/百忙无果[官].js"
+			"ext": "./drpy_js/百忙无果[官].js"
 		},
 	  {
       "key": "点播源",
