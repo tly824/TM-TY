@@ -1,5 +1,5 @@
 {
-  "spider": "https://gh-proxy.org/https://raw.github.com/qist/tvbox/master/xiaosa/spider.jar;md5;16e47f71bf07c147eaba17f9c2808343",
+  "spider": "./jar/spider.jar;md5;aHR0cHM6Ly9naXRodWIuY29tL3RseTgyNC9UTS1UWS9tYWluL2phci9zcGlkZXIuamFy",
   "wallpaper": "http://127.0.0.1:9978/proxy?do=wallpaper",
   "logo": "https://pic7.fukit.cn/autoupload/gE6Y0Af2tjXBCNig6CtNDI12_FRYNb81z6UPhMWD8iI/20251224/dJkT/1080X1080/logo.jpg/webp",
   "danmaku": "http://127.0.0.1:9978/proxy?do=danmaku&name={name}&episode={episode}",
