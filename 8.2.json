@@ -1,9 +1,8 @@
 {
   "spider": "https://gh-proxy.org/https://raw.github.com/qist/tvbox/master/xiaosa/spider.jar;md5;16e47f71bf07c147eaba17f9c2808343",
-  "homepage": "https://github.com/tly824/TM-TY",
-  "wallpaper":"https://bing.img.run/1920x1080.php",
-  "logo": "https://gh-proxy.org/https://raw.github.com/tly824/TX/main/TX.jpg",
-
+  "wallpaper": "http://127.0.0.1:9978/proxy?do=wallpaper",
+  "logo": "https://pic7.fukit.cn/autoupload/gE6Y0Af2tjXBCNig6CtNDI12_FRYNb81z6UPhMWD8iI/20251224/dJkT/1080X1080/logo.jpg/webp",
+  "danmaku": "http://127.0.0.1:9978/proxy?do=danmaku&name={name}&episode={episode}",
   "sites": [
     {"key": "豆瓣","name": "豆瓣 • 首页","type": 3,"api": "csp_Douban","searchable": 0},
     {"key": "配置中心","name": "配置 • 中心","type": 3,"api": "csp_Config","searchable": 0,"changeable": 0,"indexs": 0,"style": {"type": "rect","ratio": 1.597}},
