@@ -194,6 +194,97 @@
       "filterable": 1
     },
 	 {
+        "key":"CZ",
+        "name":"🐬厂长资源(关梯子使用)[追剧][html]",
+        "type":3,
+        "api":"csp_czjy",
+        "homePage":"https://fgblh.github.io/uhuj.github.io/厂长.html"
+      },
+      {
+        "key":"WB",
+        "name":"🐬歪比巴卜影视[追剧][html]",
+        "type":3,
+        "api":"csp_wbbb",
+        "homePage":"https://fgblh.github.io/uhuj.github.io/歪比巴卜.html"
+      },
+      {
+        "key":"PTT",
+        "name":"🐬PTT视频[追剧][html]",
+        "type":3,
+        "api":"csp_ptt",
+        "homePage":"https://fgblh.github.io/uhuj.github.io/ptt.html"
+      },
+      {
+        "key":"LIBVIO",
+        "name":"🐬LIBVIO影视[追剧][html]",
+        "type":3,
+        "api":"csp_libvio",
+        "homePage":"https://fgblh.github.io/uhuj.github.io/libvio.html"
+      },
+      {
+        "key":"PPN",
+        "name":"🐬ppnix影视[追剧][html]",
+        "type":3,
+        "api":"csp_ppnix",
+        "homePage":"https://fgblh.github.io/uhuj.github.io/ppnix.html"
+      },
+	  {
+        "key":"360JH",
+        "name":"🐬360影视(关梯子使用)[追剧][html]",
+        "type":3,
+        "api":"csp_360jh",
+        "homePage":"https://fgblh.github.io/uhuj.github.io/360聚合.html"
+      },
+	  {
+        "key":"WOJH",
+        "name":"🐬玩偶聚合(关梯子使用)[追剧][html]",
+        "type":3,
+        "api":"csp_wojh",
+        "homePage":"https://fgblh.github.io/uhuj.github.io/玩偶聚合.html"
+      },
+	  {
+        "key":"GY",
+        "name":"🐬观影(关梯子使用)[追剧][html]",
+        "type":3,
+        "api":"csp_gy",
+        "homePage":"https://fgblh.github.io/uhuj.github.io/观影.html"
+      },
+	 {
+      "key": "天涯资源",
+      "name": "🐬天涯资源┃伦理[追剧]",
+      "type": 0,
+      "api": "https://tyyszyapi.com/api.php/provide/vod/at/xml/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1
+    },
+	{
+      "key": "iKun资源",
+      "name": "🐬iKun资源┃伦理[追剧]",
+      "type": 0,
+      "api": "https://ikunzyapi.com/api.php/provide/vod/at/xml",
+      "searchable": 1,
+      "quickSearch": 1
+    },
+	 {
+      "key": "cj_360资源",
+      "name": "🐬360[短剧]",
+      "type": 1,
+      "searchable": 0,
+      "quickSearch": 1,
+      "filterable": 1,
+      "api": "https://360zy.com/api.php/provide/vod",
+      "categories": [
+        "爽文短剧",
+        "现代都市",
+        "脑洞悬疑",
+        "年代穿越",
+        "古装仙侠",
+        "反转爽剧",
+        "女频恋爱",
+        "成长逆袭"
+      ]
+    },
+	 {
 			"key": "hipy_js_北川影视",
 			"name": "北川影视(drpy_t3)",
 			"type": 3,
