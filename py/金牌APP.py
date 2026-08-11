@@ -29,24 +29,25 @@ class Spider(Spider):
         pass
 
     def homeContent(self, filter):
-        return {
-            'class': [{'type_id': '1', 'type_name': '电影'},
+        return 
+          {'class': [{'type_id': '1', 'type_name': '电影'},
           {'type_id': '2', 'type_name': '电视剧'},
           {'type_id': '3', 'type_name': '综艺'},
-          {'type_id': '4', 'type_name': '动漫'}],
-            'filters': {
+          {'type_id': '4', 'type_name': '动漫'},
+          {'type_id': '5', 'type_name': '短剧'}],
+         'filters': {
     '1': [
         {'key': 'type',
          'name': '类型',
          'value': [{'n': '全部', 'v': ''},
                    {'n': '喜剧', 'v': '/type/22'},
                    {'n': '动作', 'v': '/type/23'},
-                   {'n': '科幻', 'v': '/type/30'},
                    {'n': '爱情', 'v': '/type/26'},
+                   {'n': '科幻', 'v': '/type/30'},
                    {'n': '悬疑', 'v': '/type/27'},
                    {'n': '奇幻', 'v': '/type/87'},
-                   {'n': '剧情', 'v': '/type/37'},
                    {'n': '恐怖', 'v': '/type/36'},
+                   {'n': '剧情', 'v': '/type/37'},
                    {'n': '犯罪', 'v': '/type/35'},
                    {'n': '动画', 'v': '/type/33'},
                    {'n': '惊悚', 'v': '/type/34'},
@@ -66,6 +67,8 @@ class Spider(Spider):
                    {'n': '韩国', 'v': '/area/韩国'},
                    {'n': '印度', 'v': '/area/印度'},
                    {'n': '泰国', 'v': '/area/泰国'},
+                   {'n': '英国', 'v': '/area/英国'},
+                   {'n': '法国', 'v': '/area/法国'},
                    {'n': '其他', 'v': '/area/其他'}]},
         {'key': 'year',
          'name': '年份',
