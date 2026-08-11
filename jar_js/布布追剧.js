@@ -5,7 +5,7 @@ import {
     Crypto,
     _
 } from 'assets://js/lib/cat.js';
-let host = 'https://bubutv.top';
+let host = 'https://xds2435u23422342342u.top/';
 let device_id = '';
 const pkg = 'com.sunshine.tv';
 const ver = '4';
