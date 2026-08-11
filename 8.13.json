@@ -27,7 +27,25 @@
 	"quickSearch": 0,
 	"changeable": 0
 },
-
+{
+            "key": "配置中心",
+            "name": "配置｜中心",
+            "type": 3,
+            "api": "csp_Config",
+            "searchable": 0,
+            "changeable": 0,
+            "indexs": 0,
+            "style": {
+                "type": "rect",
+                "ratio": 1.597
+            }
+        },
+        {
+            "key": "本地",
+            "name": "本地｜视频",
+            "type": 3,
+            "api": "csp_LocalFile"
+        },
 	 {
             "key": "王子",
             "name": "王子｜APP[追剧]",
@@ -46,7 +64,7 @@
 	"key": "808yr",
 	"name": "808影院",
 	"type": 3,
-	"api": "./py/808影院.py"
+	"api": "https://ghfast.top/https://raw.githubusercontent.com/tly824/TM-TY/refs/heads/main/py/808%E5%BD%B1%E9%99%A2.py"
 	},
 	
 	 {
