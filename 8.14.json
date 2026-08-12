@@ -174,11 +174,8 @@
       "api": "csp_WexHaiYinsoGuard",
       "searchable": 1,
       "changeable": 0
-    },
-      "ext": {
-        "json": "https://support-chat.rongcloud.cn/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBYkE9IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--47a8ff0e68559a89a9a75b37d09a2b0854dc5a8a/bili001.txt"
-      }
     }
+   
 ],
 "parses": [
     {
