@@ -155,7 +155,11 @@
         "type": "rect",
         "ratio": 1.433
       },
-		 {
+	"ext": {
+        "json": "https://support-chat.rongcloud.cn/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBYkE9IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--47a8ff0e68559a89a9a75b37d09a2b0854dc5a8a/bili001.txt"
+      }
+    },	
+   {
       "key": "WexbaidusoGuard",
       "name": "🎠给力┃百度🎠",
       "type": 3,
