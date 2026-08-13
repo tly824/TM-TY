@@ -252,16 +252,16 @@
       "url": "http://110.42.7.182:880/api/?key=7e84f07dc78fbb3406d64a1ab7d966b3&url="
     },
     {
-      "name": "小",
+      "name": "解析3",
       "type": 1,
       "url": "http://43.136.176.188:91/api/?key=4ef232e96172b0bda78d393c695fe7c4&url="
     },
     {
-      "name": "帅",
+      "name": "解析4",
       "type": 1,
       "url": "http://pan.qiaoji8.com/tvbox/neibu.php?url="
     },
-	 {"name": "聚合","type": 3,"url": "Web"},
+	{"name": "聚合","type": 3,"url": "Web"},
     {"name": "虾米","type": 0,"url": "https://jx.xmflv.com/?url=","ext": {"header": {"user-agent": "Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"}}},
     {"name": "云解","type": 0,"url": "https://yparse.ik9.cc/index.php?url=","ext": {"header": {"user-agent": "Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"}}},
     {"name": "咸鱼","type": 0,"url": "https://jx.xymp4.cc/?url=","ext": {"header": {"user-agent": "Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"}}},
