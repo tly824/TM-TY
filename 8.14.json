@@ -2,29 +2,10 @@
   "homepage": "https://github.com/tly824/TM-TY",
   "spider": "https://gh-proxy.org/https://raw.github.com/tly824/TM-TY/main/jar/Fty/XS-spider.jar;md5;aHR0cHM6Ly9naXRodWIuY29tL3RseTgyNC9UTS1UWS9tYWluL2phci9GdHkvWFMtc3BpZGVyLmphcg==",
 "sites": [
-{
-      "key": "Douban",
-      "name": "招财",
-      "type": 3,
-      "api": "csp_DoubanGuard",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": "https://cdn.waimaimingtang.com/file/images/bwc/20260414181247-ae51abfbfe.txt"
-    },
-	{
-      "key": "Doubana",
-      "name": "【更新日期:20260812】",
-      "type": 3,
-      "api": "csp_DoubanGuard",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": "https://cdn.waimaimingtang.com/file/images/bwc/20260414181247-ae51abfbfe.txt"
-    },
+
 {
       "key": "Wexhanxiaoquan",
-      "name": "💥韩剧┃秒播💥",
+      "name": "💥招财┃秒播💥",
       "type": 3,
       "api": "csp_WexhanxiaoquanGuard",
       "searchable": 1,
