@@ -107,6 +107,22 @@
       "searchable": 1,
       "changeable": 1
     },
+	{
+		"key": "电影港",
+		"name": "电影港 • 磁力",
+		"type": 3,
+		"api": "csp_XYQHiker",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"ext": "./json/DYG.json"
+	},
+{
+	"key": "飞娱影视",
+	"name": "飞娱 • 影视",
+	"type": 3,
+	"api": "csp_Feiyu"
+},
 {
 	"key": "量子",
 	"name": "影视 | 量子[直连]",
