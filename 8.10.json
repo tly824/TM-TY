@@ -316,63 +316,63 @@
 		},
 	 {
         "key":"CZ",
-        "name":"🐬厂长资源(关梯子使用)[追剧][html]",
+        "name":"厂长资源",
         "type":3,
         "api":"csp_czjy",
         "homePage":"https://fgblh.github.io/uhuj.github.io/厂长.html"
       },
       {
         "key":"WB",
-        "name":"🐬歪比巴卜影视[追剧][html]",
+        "name":"歪比巴卜影视",
         "type":3,
         "api":"csp_wbbb",
         "homePage":"https://fgblh.github.io/uhuj.github.io/歪比巴卜.html"
       },
       {
         "key":"PTT",
-        "name":"🐬PTT视频[追剧][html]",
+        "name":"PTT视频",
         "type":3,
         "api":"csp_ptt",
         "homePage":"https://fgblh.github.io/uhuj.github.io/ptt.html"
       },
       {
         "key":"LIBVIO",
-        "name":"🐬LIBVIO影视[追剧][html]",
+        "name":"LIBVIO影视",
         "type":3,
         "api":"csp_libvio",
         "homePage":"https://fgblh.github.io/uhuj.github.io/libvio.html"
       },
       {
         "key":"PPN",
-        "name":"🐬ppnix影视[追剧][html]",
+        "name":"ppnix影视",
         "type":3,
         "api":"csp_ppnix",
         "homePage":"https://fgblh.github.io/uhuj.github.io/ppnix.html"
       },
 	  {
         "key":"360JH",
-        "name":"🐬360影视(关梯子使用)[追剧][html]",
+        "name":"🐬360",
         "type":3,
         "api":"csp_360jh",
         "homePage":"https://fgblh.github.io/uhuj.github.io/360聚合.html"
       },
 	  {
         "key":"WOJH",
-        "name":"🐬玩偶聚合(关梯子使用)[追剧][html]",
+        "name":"玩偶聚合",
         "type":3,
         "api":"csp_wojh",
         "homePage":"https://fgblh.github.io/uhuj.github.io/玩偶聚合.html"
       },
 	  {
         "key":"GY",
-        "name":"🐬观影(关梯子使用)[追剧][html]",
+        "name":"观影",
         "type":3,
         "api":"csp_gy",
         "homePage":"https://fgblh.github.io/uhuj.github.io/观影.html"
       },
 	 {
       "key": "天涯资源",
-      "name": "🐬天涯资源┃伦理[追剧]",
+      "name": "天涯资源",
       "type": 0,
       "api": "https://tyyszyapi.com/api.php/provide/vod/at/xml/?ac=list",
       "searchable": 1,
@@ -380,7 +380,7 @@
     },
 	{
       "key": "iKun资源",
-      "name": "🐬iKun资源┃伦理[追剧]",
+      "name": "iKun资源",
       "type": 0,
       "api": "https://ikunzyapi.com/api.php/provide/vod/at/xml",
       "searchable": 1,
@@ -388,7 +388,7 @@
     },
 	 {
       "key": "cj_360资源",
-      "name": "🐬360[短剧]",
+      "name": "360",
       "type": 1,
       "searchable": 0,
       "quickSearch": 1,
@@ -407,7 +407,7 @@
     },
 	{
 			"key": "西瓜影视",
-			"name": "🐬西瓜影视.js[追剧]",
+			"name": "西瓜影视.js",
 			"type": 3,
 			"api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/jar_js/西瓜影视.js",
 			"changeable": 0
@@ -421,57 +421,57 @@
 		},
 		{
 			"key": "片库",
-			"name": "🐬片库.js(关梯)[追剧]",
+			"name": "片库",
 			"type": 3,
 			"api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/jar_js/片库.js",
 			"changeable": 0
 		},
 		{
 			"key": "枫叶影院",
-			"name": "🐬枫叶影院.js(关梯)[追剧]",
+			"name": "枫叶影院",
 			"type": 3,
 			"api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/jar_js/枫叶影院.js",
 			"changeable": 0
 		},
 		{
 			"key": "808yr",
-			"name": "🐬808影院.py(关梯[追剧]",
+			"name": "808影院",
 			"type": 3,
 			"api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/py/808影院.py"
 		},
 		{
 			"key": "gqc",
-			"name": "🐬共青春影院.py(关梯)[追剧]",
+			"name": "共青春影院",
 			"type": 3,
 			"api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/py/共青春影院.py"
 		},
 	 {
 			"key": "zzvm",
-			"name": "🐬枝枝影视.py(关梯)[追剧]",
+			"name": "枝枝影视",
 			"type": 3,
 			"api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/py/枝枝影视.py"
 		},
 		{
 			"key": "knvm",
-			"name": "🐬柯南影视.py(关梯)[追剧]",
+			"name": "柯南影视",
 			"type": 3,
 			"api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/py/柯南影视.py"
 		},
 		{
 			"key": "teys",
-			"name": "🐬太乙影视.py(关梯)[追剧]",
+			"name": "太乙影视",
 			"type": 3,
 			"api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/py/太乙影视.py"
 		},
 		{
 			"key": "wkvm",
-			"name": "🐬悟空影视.py(关梯)[追剧]",
+			"name": "悟空影视",
 			"type": 3,
 			"api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/py/悟空影视.py"
 		},
 		{
 			"key": "xmvm",
-			"name": "🐬神马影视.py(关梯)[追剧]",
+			"name": "神马影视",
 			"type": 3,
 			"api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/py/神马影视.py"
 		},
