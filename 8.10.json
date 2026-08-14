@@ -35,7 +35,42 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
-    },	 
+    },
+	{
+      "key": "豪华资源",
+      "name": "🚶‍♂️豪华┃影视",
+      "type": 1,
+      "api": "https://hhzyapi.com/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "categories": [
+        "内地剧",
+        "香港剧",
+        "欧美剧",
+        "韩剧",
+        "日剧",
+        "马泰剧",
+        "台湾剧",
+        "动画片",
+        "中国动漫",
+        "日本动漫",
+        "欧美动漫",
+        "剧情片",
+        "战争片",
+        "动作片",
+        "科幻片",
+        "记录片",
+        "爱情片",
+        "喜剧片",
+        "灾难片",
+        "悬疑片",
+        "犯罪片",
+        "大陆综艺",
+        "日韩综艺",
+        "港台综艺",
+        "欧美综艺"
+      ]
+    }, 
 {
 	"key": "量子",
 	"name": "影视 | 量子[直连]",
@@ -84,6 +119,14 @@
       "type": 3,
       "api": "https://gh-proxy.org/https://raw.github.com/tly824/TvBoxx/master/js/drpy2.min.js",
       "ext": "https://gh-proxy.org/https://raw.github.com/tly824/TvBoxx/master/js/360.js"
+    },
+   {
+      "key": "360资源",
+      "name": "360┃直连",
+      "type": 1,
+      "api": "https://360zy.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1
     },
     {
       "key": "搜狗影视",
