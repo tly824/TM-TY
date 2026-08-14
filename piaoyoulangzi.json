@@ -1,6 +1,6 @@
 {
    "homepage": "https://github.com/tly824/TM-TY",
-  "spider": "./jar/Fty/piaoyoulangzi-spider.jar",
+  "spider": "https://gh-proxy.org/https://raw.github.com/tly824/TM-TY/main/jar/Fty/piaoyoulangzi-spider.jar",
   "spider": "./lib/spider.jar",
   "lives": [
     {
