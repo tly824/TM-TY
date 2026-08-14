@@ -1,4 +1,6 @@
 {
+   "homepage": "https://github.com/tly824/TM-TY",
+  "spider": "./jar/Fty/piaoyoulangzi-spider.jar",
   "spider": "./lib/spider.jar",
   "lives": [
     {
