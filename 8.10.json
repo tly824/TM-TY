@@ -10,7 +10,7 @@
       "name": "直播",
       "type": 0,
       "playerType": 1,
-      "url": "https://iptvs.pes.im",
+      "url": "https://gh-proxy.org/https://raw.github.com/tly824/tly-iptv/main/2026-8.14.txt",
       "epg": "https://epg.zsdc.eu.org/t.xml",
       "logo": "https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/{name}.png"
     }
