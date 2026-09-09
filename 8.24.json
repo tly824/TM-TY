@@ -906,6 +906,17 @@
       },
       "timeout": 60
     },
+     {
+      "key": "策驰影院",
+      "name": "策驰影院",
+      "type": 3,
+      "api": "https://ghfast.top/https://raw.githubusercontent.com/tly824/TM-TY/refs/heads/main/drpy_js/策驰影院(自动).js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "ext": "https://ghfast.top/https://raw.githubusercontent.com/tly824/TM-TY/refs/heads/main/drpy_js/策驰影院(自动).js"
+    },
     {
       "key": "hipy_js_北川影视",
       "name": "北川影视(drpy_t3)",
