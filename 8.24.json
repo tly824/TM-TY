@@ -561,13 +561,15 @@
       "filterable": 1
     },
     {
-      "key": "81",
-      "name": "81",
-      "type": 0,
-      "api": "http://www.81vod.com/rss.xml",
+      "key": "八一影院",
+      "name": "八一影院",
+      "type": 3,
+      "api": "https://ghfast.top/https://raw.githubusercontent.com/tly824/TM-TY/refs/heads/main/drpy_js/八一影院.py",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 1,
+      "order_num": 0,
+      "ext": "https://ghfast.top/https://raw.githubusercontent.com/tly824/TM-TY/refs/heads/main/drpy_js/八一影院.py"
     },
     {
       "key": "百度云资源",
